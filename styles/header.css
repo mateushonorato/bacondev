@@ -1,0 +1,17 @@
+#header{
+    display: grid;
+    height: 30vh;
+    background: #6F73D2;
+    grid-template-rows: 25% 70%;
+}
+
+header nav{
+    justify-self: right;    
+    align-self: center;
+    font-family: Lato;
+}
+
+header img {
+    width: 10vw;
+    height: 10vw;
+}
